@@ -1,0 +1,49 @@
+{
+  "SektorKetenagalistrikan": [
+    {
+      "No.": "1",
+      "Nama Proyek": "HIGH VOLTAGE DIRECT CURRENT (HVDC)",
+      "Lokasi": "Sumatera Selatan, Lampung, Banten, Jawa Barat"
+    },
+    {
+      "No.": "2",
+      "Nama Proyek": "PLTU Mulut Tambang",
+      "Lokasi": "Sumatera Selatan"
+    },
+    {
+      "No.": "3",
+      "Nama Proyek": "Transmisi Sumatera 500 kV",
+      "Lokasi": "Sumatera"
+    },
+    {
+      "No.": "4",
+      "Nama Proyek": "Central   West Java Transmission Line 500kV",
+      "Lokasi": "Jawa Barat, Jawa Tengah"
+    },
+    {
+      "No.": "5",
+      "Nama Proyek": "PLTU Indramayu",
+      "Lokasi": "Jawa Barat"
+    },
+    {
+      "No.": "6",
+      "Nama Proyek": "PLTU Batang",
+      "Lokasi": "Jawa Tengah"
+    },
+    {
+      "No.": "7",
+      "Nama Proyek": "PLTA Karangkates IV & V (2x50MW)",
+      "Lokasi": "Jawa Timur"
+    },
+    {
+      "No.": "8",
+      "Nama Proyek": "PLTA Kesamben (37MW)",
+      "Lokasi": "Jawa Timur"
+    },
+    {
+      "No.": "9",
+      "Nama Proyek": "PLTA Lodoyo (50MW)",
+      "Lokasi": "Jawa Timur"
+    }
+  ]
+}

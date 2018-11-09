@@ -1,0 +1,374 @@
+{
+  "SektorJalan": [
+    {
+      "No.": "1.",
+      "Nama Proyek": "Jalan Tol Serang-Panimbang (83,6km)",
+      "Lokasi": "Provinsi Banten"
+    },
+    {
+      "No.": "2.",
+      "Nama Proyek": "Jalan Tol Pandaan-Malang (37,62km)",
+      "Lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "No.": "3.",
+      "Nama Proyek": "Jalan Tol Manado-Bitung (39km)",
+      "Lokasi": "Provinsi Sulawesi Utara"
+    },
+    {
+      "No.": "4.",
+      "Nama Proyek": "Jalan Tol Balikpapan-Samarinda (99km)",
+      "Lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "No.": "5.",
+      "Nama Proyek": "Jalan Tol Medan-Binjai (16km)-bagian dari 8 ruas Trans Sumatera",
+      "Lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "No.": "6.",
+      "Nama Proyek": "Jalan Tol Palembang-Indralaya (22km)-bagian dari 8 ruas Trans Sumatera",
+      "Lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "7.",
+      "Nama Proyek": "Jalan Tol Bakauheni-Terbanggi Besar (140,9km)-bagian dari 8 ruas Trans Sumatera",
+      "Lokasi": "Provinsi Lampung"
+    },
+    {
+      "No.": "8.",
+      "Nama Proyek": "Jalan Tol Pekanbaru-Kandis-Dumai (131,5 km)-bagian dari 8 ruas Trans Sumatera",
+      "Lokasi": "Provinsi Riau"
+    },
+    {
+      "No.": "9.",
+      "Nama Proyek": "Jalan Tol Terbanggi Besar-Pematang Panggang-bagian dari 8 ruas Trans Sumatera",
+      "Lokasi": "Provinsi Lampung-Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "10.",
+      "Nama Proyek": "Jalan Tol Pematang Panggang-Kayu Agung-bagian dari 8 ruas Trans Sumatera",
+      "Lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "11.",
+      "Nama Proyek": "Jalan Tol Palembang-Tanjung Api-Api-bagian dari 8 ruas Trans Sumatera",
+      "Lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "12.",
+      "Nama Proyek": "Jalan Tol Kisaran-Tebing Tinggi-bagian dari 8 ruas Trans Sumatera",
+      "Lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "No.": "13.",
+      "Nama Proyek": "Jalan Tol Kayu Agung-Palembang-Betung (112km)",
+      "Lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "14.",
+      "Nama Proyek": "Jalan Tol Medan-Kualanamu-Lubuk Pakam-Tebing Tinggi (62km)",
+      "Lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "No.": "15.",
+      "Nama Proyek": "Jalan Tol Soreang-Pasirkoja (11km)",
+      "Lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "No.": "16.",
+      "Nama Proyek": "Jalan Tol Cileunyi-Sumedang-Dawuan (59 km)",
+      "Lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "No.": "17.",
+      "Nama Proyek": "Jalan Tol Pejagan-Pemalang (58km)",
+      "Lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "No.": "18.",
+      "Nama Proyek": "Jalan Tol Pemalang-Batang (39km)",
+      "Lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "No.": "19.",
+      "Nama Proyek": "Jalan Tol Batang-Semarang (75km)",
+      "Lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "No.": "20.",
+      "Nama Proyek": "Jalan Tol Semarang-Solo (73km)",
+      "Lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "No.": "21.",
+      "Nama Proyek": "Jalan Tol Solo-Ngawi (90km)",
+      "Lokasi": "Provinsi Jawa Tengah-Provinsi Jawa Timur"
+    },
+    {
+      "No.": "22.",
+      "Nama Proyek": "Jalan Tol Ngawi-Kertosono (87km)",
+      "Lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "No.": "23.",
+      "Nama Proyek": "Jalan Tol Kertosono-Mojokerto (41km)",
+      "Lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "No.": "24.",
+      "Nama Proyek": "Jalan Tol Mojokerto-Surabaya (36km)",
+      "Lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "No.": "25.",
+      "Nama Proyek": "Jalan Tol Ciawi-Sukabumi (54km)",
+      "Lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "No.": "26.",
+      "Nama Proyek": "Jalan Tol Gempol-Pasuruan (34,15km)",
+      "Lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "No.": "27.",
+      "Nama Proyek": "Jalan Tol Waru (Aloha)-Wonokromo-Tanjung Perak (18,2km)",
+      "Lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "No.": "28.",
+      "Nama Proyek": "Jalan Akses Tanjung Priok (17km)",
+      "Lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "No.": "29.",
+      "Nama Proyek": "Jalan Tol Cengkareng-Batu-Ceper-Kunciran (14,19km)",
+      "Lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "No.": "30.",
+      "Nama Proyek": "Jalan Tol Kunciran-Serpong (11,19km)",
+      "Lokasi": "Provinsi Banten"
+    },
+    {
+      "No.": "31.",
+      "Nama Proyek": "Jalan Tol Serpong-Cinere (10,14km)",
+      "Lokasi": "Provinsi Banten-Provinsi Jawa Barat"
+    },
+    {
+      "No.": "32.",
+      "Nama Proyek": "Jalan Tol Cinere-Jagorawi (14,64km)",
+      "Lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "No.": "33.",
+      "Nama Proyek": "Jalan Tol Cimanggis-Cibitung (25,39km)",
+      "Lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "No.": "34.",
+      "Nama Proyek": "Jalan Tol Cibitung-Cilincing (34km)",
+      "Lokasi": "Provinsi Jawa Barat-Provinsi DKI Jakarta"
+    },
+    {
+      "No.": "35.",
+      "Nama Proyek": "Jalan Tol Depok-Antasari (21,54km)",
+      "Lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "No.": "36.",
+      "Nama Proyek": "Jalan Tol Bekasi-Cawang-Kp. Melayu (21,04km)",
+      "Lokasi": "Provinsi Jawa Barat-Provinsi DKI Jakarta"
+    },
+    {
+      "No.": "37.",
+      "Nama Proyek": "Jalan Tol Bogor Ring Road (11km)",
+      "Lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "No.": "38.",
+      "Nama Proyek": "Jalan Tol Serpong-Balaraja (30km)",
+      "Lokasi": "Provinsi Banten"
+    },
+    {
+      "No.": "39.",
+      "Nama Proyek": "Jalan Tol Batu Ampar-Muka Kuning-Bandara Hang Nadim (25km)",
+      "Lokasi": "Provinsi Kepulauan Riau"
+    },
+    {
+      "No.": "40.",
+      "Nama Proyek": "Jalan Tol Semanan-Sunter 20,23 km (bagian dari 6 ruas tol DKI Jakarta)",
+      "Lokasi": "DKI Jakarta"
+    },
+    {
+      "No.": "41.",
+      "Nama Proyek": "Jalan Tol Sunter-Pulo Gebang 9,44km (bagian dari 6 ruas tol DKI Jakarta)",
+      "Lokasi": "DKI Jakarta"
+    },
+    {
+      "No.": "42.",
+      "Nama Proyek": "Jalan Tol Duri Pulo-Kampung Melayu 9,6km (bagian dari 6 ruas tol DKI Jakarta)",
+      "Lokasi": "DKI Jakarta"
+    },
+    {
+      "No.": "43.",
+      "Nama Proyek": "Jalan Tol Kemayoran-Kampung Melayu 9,6km (bagian dari 6 ruas tol DKI Jakarta)",
+      "Lokasi": "DKI Jakarta"
+    },
+    {
+      "No.": "44.",
+      "Nama Proyek": "Jalan Tol Ulujami-Tanah Abang 8,7km (bagian dari 6 ruas tol DKI Jakarta)",
+      "Lokasi": "DKI Jakarta"
+    },
+    {
+      "No.": "45.",
+      "Nama Proyek": "Jalan Tol Pasar Minggu-Casablanca 9,16 km (bagian dari 6 ruas tol DKI Jakarta)",
+      "Lokasi": "DKI Jakarta"
+    },
+    {
+      "No.": "46.",
+      "Nama Proyek": "Jalan Tol Sigli-Banda Aceh (75km)",
+      "Lokasi": "Aceh"
+    },
+    {
+      "No.": "47.",
+      "Nama Proyek": "Jalan Tol Binjai-Langsa (110)",
+      "Lokasi": "Aceh, Sumatera Utara"
+    },
+    {
+      "No.": "48.",
+      "Nama Proyek": "Jalan Tol Bukittinggi-Padang Panjang-Lubuk Alung-Padang (200km)",
+      "Lokasi": "Sumatera Barat"
+    },
+    {
+      "No.": "49.",
+      "Nama Proyek": "Jalan Tol Rantau Prapat-Kisaran (100km)",
+      "Lokasi": "Sumatera Utara"
+    },
+    {
+      "No.": "50.",
+      "Nama Proyek": "Jalan Tol Langsa-Lhokseumawe (135km)",
+      "Lokasi": "Aceh"
+    },
+    {
+      "No.": "51.",
+      "Nama Proyek": "Jalan Tol Lhokseumawe-Sigli (135km)",
+      "Lokasi": "Aceh"
+    },
+    {
+      "No.": "52.",
+      "Nama Proyek": "Jalan Tol Pekanbaru-Bangkinang-Payakumbuh-Bukittinggi (185km)",
+      "Lokasi": "Sumatera Barat, Riau"
+    },
+    {
+      "No.": "53.",
+      "Nama Proyek": "Jalan Tol Tebing Tinggi-Pematang Siantar-Prapat-Tarutung-Sibolga (200km)",
+      "Lokasi": "Sumatera Utara"
+    },
+    {
+      "No.": "54.",
+      "Nama Proyek": "Jalan Tol Betung (Sp. Sekayu)-Tempino-Jambi (191km)",
+      "Lokasi": "Jambi-Sumatera Selatan"
+    },
+    {
+      "No.": "55.",
+      "Nama Proyek": "Jalan Tol Jambi-Rengat (190km)",
+      "Lokasi": "Jambi"
+    },
+    {
+      "No.": "56.",
+      "Nama Proyek": "Jalan Tol Rengat-Pekanbaru (175km)",
+      "Lokasi": "Riau"
+    },
+    {
+      "No.": "57.",
+      "Nama Proyek": "Jalan Tol Dumai-Sp. Sigambal-Rantau Prapat (175km)",
+      "Lokasi": "Riau-Sumatera Utara"
+    },
+    {
+      "No.": "58.",
+      "Nama Proyek": "Jalan Tol Simpang Indralaya-Muara Enim (110km)",
+      "Lokasi": "Sumatera Selatan"
+    },
+    {
+      "No.": "59.",
+      "Nama Proyek": "Jalan Tol Muara Enim-Lubuk Linggau-Lahat (125km)",
+      "Lokasi": "Sumatera Selatan"
+    },
+    {
+      "No.": "60.",
+      "Nama Proyek": "Jalan Tol Lubuk Linggau-Curup-Bengkulu (95km)",
+      "Lokasi": "Sumatera Selatan-Bengkulu"
+    },
+    {
+      "No.": "61.",
+      "Nama Proyek": "Jalan Tol Pasuruan-Probolinggo (31,3km)",
+      "Lokasi": "  Jawa Timur"
+    },
+    {
+      "No.": "62.",
+      "Nama Proyek": "Jalan Tol Probolinggo-Banyuwangi (170,36km)",
+      "Lokasi": "  Jawa Timur"
+    },
+    {
+      "No.": "63.",
+      "Nama Proyek": "Jalan Tol Krian-Legundi-Bunder-Manyan (39km)",
+      "Lokasi": "  Jawa Timur"
+    },
+    {
+      "No.": "64.",
+      "Nama Proyek": "Jalan Tol Jakarta Cikampek II Sisi Selatan (36,4km)",
+      "Lokasi": "DKI Jakarta-Jawa Barat"
+    },
+    {
+      "No.": "65.",
+      "Nama Proyek": "Jalan Tol Jakarta-Cikampek II Elevated (64km)",
+      "Lokasi": "  DKI Jakarta-Jawa Barat"
+    },
+    {
+      "No.": "66.",
+      "Nama Proyek": "Jalan Tol Yogyakarta-Solo (40,49km)",
+      "Lokasi": "  Jawa Tengah"
+    },
+    {
+      "No.": "67.",
+      "Nama Proyek": "  Jalan Tol Semarang-Demak (23,99km)",
+      "Lokasi": "  Jawa Tengah"
+    },
+    {
+      "No.": "68.",
+      "Nama Proyek": "  Jalan Tol Sukabumi-Ciranjang-Padalarang (61km)",
+      "Lokasi": "  Jawa Barat"
+    },
+    {
+      "No.": "69.",
+      "Nama Proyek": "  Jalan Tol Yogyakarta-Bawen (71km)",
+      "Lokasi": "  Yogyakarta"
+    },
+    {
+      "No.": "70.",
+      "Nama Proyek": "Pembangunan Jalan Lingkar Trans Morotai",
+      "Lokasi": "Provinsi Maluku Utara"
+    },
+    {
+      "No.": "71.",
+      "Nama Proyek": "Jalan Palu-Parigi",
+      "Lokasi": "Provinsi Sulawesi Tengah"
+    },
+    {
+      "No.": "72.",
+      "Nama Proyek": "Pembangunan Fly Over dari dan Menuju Terminal Teluk Lamong",
+      "Lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "No.": "73.",
+      "Nama Proyek": "Jalan Penghubung Gorontalo-Manado",
+      "Lokasi": "Provinsi Gorontalo-Provinsi Sulawesi Utara"
+    },
+    {
+      "No.": "74.",
+      "Nama Proyek": "Jalan Trans Maluku (7 ruas)",
+      "Lokasi": "Provinsi Maluku"
+    }
+  ]
+}
