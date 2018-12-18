@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+
+{% block body %}
+  <ul>
+    {% for mahasiswa in mahasiswa %}
+      <li>{{ mahasiswa }}</li>
+    {% endfor %}
+  </ul>
+{% endblock %}
