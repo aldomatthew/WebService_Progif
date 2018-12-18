@@ -1,0 +1,34 @@
+{
+  "SektorSmelter": [
+    {
+      "No.": "1.",
+      "Nama Proyek": "Kuala Tanjung",
+      "Lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "No.": "2.",
+      "Nama Proyek": "Ketapang",
+      "Lokasi": "Provinsi Kalimantan Barat"
+    },
+    {
+      "No.": "3.",
+      "Nama Proyek": "Morowali",
+      "Lokasi": "Provinsi Sulawesi Tengah"
+    },
+    {
+      "No.": "4.",
+      "Nama Proyek": "Konawe",
+      "Lokasi": "Provinsi Sulawesi Tenggara"
+    },
+    {
+      "No.": "5.",
+      "Nama Proyek": "Bantaeng",
+      "Lokasi": "Provinsi Sulawesi Selatan"
+    },
+    {
+      "No.": "6.",
+      "Nama Proyek": "Buli",
+      "Lokasi": "Provinsi Maluku Utara"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "SektorPelabuhan": [
+    {
+      "No.": "1.",
+      "Nama Proyek": "Pengembangan pelabuhan internasional Kuala Tanjung",
+      "Lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "No.": "2.",
+      "Nama Proyek": "Pengembangan pelabuhan hub internasional Bitung",
+      "Lokasi": "Provinsi Sulawesi Utara"
+    },
+    {
+      "No.": "3.",
+      "Nama Proyek": "Pelabuhan KEK Maloy",
+      "Lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "No.": "4.",
+      "Nama Proyek": "Inland Waterways/CBL Cikarang-Bekasi- Laut Jawa",
+      "Lokasi": "Provinsi DKI Jakarta, Provinsi Jawa Barat"
+    },
+    {
+      "No.": "5.",
+      "Nama Proyek": "Pembangunan Pelabuhan Patimban",
+      "Lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "No.": "6.",
+      "Nama Proyek": "Pembangunan Pelabuhan Sorong",
+      "Lokasi": "Provinsi Papua Barat"
+    },
+    {
+      "No.": "7.",
+      "Nama Proyek": "Makassar New Port",
+      "Lokasi": "Provinsi Sulawesi Selatan"
+    },
+    {
+      "No.": "8.",
+      "Nama Proyek": "Pengembangan pelabuhan Palu (Pantoloan, Teluk Palu)",
+      "Lokasi": "Provinsi Sulawesi Tengah"
+    },
+    {
+      "No.": "9.",
+      "Nama Proyek": "Pengembangan Pelabuhan Kijing",
+      "Lokasi": "Provinsi Kalimantan Barat"
+    },
+    {
+      "No.": "10.",
+      "Nama Proyek": "Pengembangan Pelabuhan Kupang",
+      "Lokasi": "Provinsi Nusa Tenggara Timur"
+    }
+  ]
+}

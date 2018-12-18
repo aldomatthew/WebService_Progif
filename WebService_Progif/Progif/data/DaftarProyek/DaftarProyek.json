@@ -1,0 +1,1314 @@
+{
+  "DaftarProyek": [
+    {
+      "nomor": "1",
+      "nama_proyek": "Jalan Tol Serang-Panimbang (83,6km)",
+      "lokasi": "Provinsi Banten"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Jalan Tol Pandaan-Malang (37,62km)",
+      "lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Jalan Tol Manado-Bitung (39km)",
+      "lokasi": "Provinsi Sulawesi Utara"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Jalan Tol Balikpapan-Samarinda (99km)",
+      "lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "nomor": "5",
+      "nama_proyek": "Jalan Tol Medan-Binjai (16km)-bagian dari 8 ruas Trans Sumatera",
+      "lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "nomor": "6",
+      "nama_proyek": "Jalan Tol Palembang-Indralaya (22km)-bagian dari 8 ruas Trans Sumatera",
+      "lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "7",
+      "nama_proyek": "Jalan Tol Bakauheni-Terbanggi Besar (140,9km)-bagian dari 8 ruas Trans Sumatera",
+      "lokasi": "Provinsi Lampung"
+    },
+    {
+      "nomor": "8",
+      "nama_proyek": "Jalan Tol Pekanbaru-Kandis-Dumai (131,5 km)-bagian dari 8 ruas Trans Sumatera",
+      "lokasi": "Provinsi Riau"
+    },
+    {
+      "nomor": "9",
+      "nama_proyek": "Jalan Tol Terbanggi Besar-Pematang Panggang-bagian dari 8 ruas Trans Sumatera",
+      "lokasi": "Provinsi Lampung-Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "10",
+      "nama_proyek": "Jalan Tol Pematang Panggang-Kayu Agung-bagian dari 8 ruas Trans Sumatera",
+      "lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "11",
+      "nama_proyek": "Jalan Tol Palembang-Tanjung Api-Api-bagian dari 8 ruas Trans Sumatera",
+      "lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "12",
+      "nama_proyek": "Jalan Tol Kisaran-Tebing Tinggi-bagian dari 8 ruas Trans Sumatera",
+      "lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "nomor": "13",
+      "nama_proyek": "Jalan Tol Kayu Agung-Palembang-Betung (112km)",
+      "lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "14",
+      "nama_proyek": "Jalan Tol Medan-Kualanamu-Lubuk Pakam-Tebing Tinggi (62km)",
+      "lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "nomor": "15",
+      "nama_proyek": "Jalan Tol Soreang-Pasirkoja (11km)",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "16",
+      "nama_proyek": "Jalan Tol Cileunyi-Sumedang-Dawuan (59 km)",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "17",
+      "nama_proyek": "Jalan Tol Pejagan-Pemalang (58km)",
+      "lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "nomor": "18",
+      "nama_proyek": "Jalan Tol Pemalang-Batang (39km)",
+      "lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "nomor": "19",
+      "nama_proyek": "Jalan Tol Batang-Semarang (75km)",
+      "lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "nomor": "20",
+      "nama_proyek": "Jalan Tol Semarang-Solo (73km)",
+      "lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "nomor": "21",
+      "nama_proyek": "Jalan Tol Solo-Ngawi (90km)",
+      "lokasi": "Provinsi Jawa Tengah-Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "22",
+      "nama_proyek": "Jalan Tol Ngawi-Kertosonomor (87km)",
+      "lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "23",
+      "nama_proyek": "Jalan Tol Kertosonomor-Mojokerto (41km)",
+      "lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "24",
+      "nama_proyek": "Jalan Tol Mojokerto-Surabaya (36km)",
+      "lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "25",
+      "nama_proyek": "Jalan Tol Ciawi-Sukabumi (54km)",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "26",
+      "nama_proyek": "Jalan Tol Gempol-Pasuruan (34,15km)",
+      "lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "27",
+      "nama_proyek": "Jalan Tol Waru (Aloha)-Wonomorkromo-Tanjung Perak (18,2km)",
+      "lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "28",
+      "nama_proyek": "Jalan Akses Tanjung Priok (17km)",
+      "lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "29",
+      "nama_proyek": "Jalan Tol Cengkareng-Batu-Ceper-Kunciran (14,19km)",
+      "lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "30",
+      "nama_proyek": "Jalan Tol Kunciran-Serpong (11,19km)",
+      "lokasi": "Provinsi Banten"
+    },
+    {
+      "nomor": "31",
+      "nama_proyek": "Jalan Tol Serpong-Cinere (10,14km)",
+      "lokasi": "Provinsi Banten-Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "32",
+      "nama_proyek": "Jalan Tol Cinere-Jagorawi (14,64km)",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "33",
+      "nama_proyek": "Jalan Tol Cimanggis-Cibitung (25,39km)",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "34",
+      "nama_proyek": "Jalan Tol Cibitung-Cilincing (34km)",
+      "lokasi": "Provinsi Jawa Barat-Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "35",
+      "nama_proyek": "Jalan Tol Depok-Antasari (21,54km)",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "36",
+      "nama_proyek": "Jalan Tol Bekasi-Cawang-Kp Melayu (21,04km)",
+      "lokasi": "Provinsi Jawa Barat-Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "37",
+      "nama_proyek": "Jalan Tol Bogor Ring Road (11km)",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "38",
+      "nama_proyek": "Jalan Tol Serpong-Balaraja (30km)",
+      "lokasi": "Provinsi Banten"
+    },
+    {
+      "nomor": "39",
+      "nama_proyek": "Jalan Tol Batu Ampar-Muka Kuning-Bandara Hang Nadim (25km)",
+      "lokasi": "Provinsi Kepulauan Riau"
+    },
+    {
+      "nomor": "40",
+      "nama_proyek": "Jalan Tol Semanan-Sunter 20,23 km (bagian dari 6 ruas tol DKI Jakarta)",
+      "lokasi": "DKI Jakarta"
+    },
+    {
+      "nomor": "41",
+      "nama_proyek": "Jalan Tol Sunter-Pulo Gebang 9,44km (bagian dari 6 ruas tol DKI Jakarta)",
+      "lokasi": "DKI Jakarta"
+    },
+    {
+      "nomor": "42",
+      "nama_proyek": "Jalan Tol Duri Pulo-Kampung Melayu 9,6km (bagian dari 6 ruas tol DKI Jakarta)",
+      "lokasi": "DKI Jakarta"
+    },
+    {
+      "nomor": "43",
+      "nama_proyek": "Jalan Tol Kemayoran-Kampung Melayu 9,6km (bagian dari 6 ruas tol DKI Jakarta)",
+      "lokasi": "DKI Jakarta"
+    },
+    {
+      "nomor": "44",
+      "nama_proyek": "Jalan Tol Ulujami-Tanah Abang 8,7km (bagian dari 6 ruas tol DKI Jakarta)",
+      "lokasi": "DKI Jakarta"
+    },
+    {
+      "nomor": "45",
+      "nama_proyek": "Jalan Tol Pasar Minggu-Casablanca 9,16 km (bagian dari 6 ruas tol DKI Jakarta)",
+      "lokasi": "DKI Jakarta"
+    },
+    {
+      "nomor": "46",
+      "nama_proyek": "Jalan Tol Sigli-Banda Aceh (75km)",
+      "lokasi": "Aceh"
+    },
+    {
+      "nomor": "47",
+      "nama_proyek": "Jalan Tol Binjai-Langsa (110)",
+      "lokasi": "Aceh, Sumatera Utara"
+    },
+    {
+      "nomor": "48",
+      "nama_proyek": "Jalan Tol Bukittinggi-Padang Panjang-Lubuk Alung-Padang (200km)",
+      "lokasi": "Sumatera Barat"
+    },
+    {
+      "nomor": "49",
+      "nama_proyek": "Jalan Tol Rantau Prapat-Kisaran (100km)",
+      "lokasi": "Sumatera Utara"
+    },
+    {
+      "nomor": "50",
+      "nama_proyek": "Jalan Tol Langsa-Lhokseumawe (135km)",
+      "lokasi": "Aceh"
+    },
+    {
+      "nomor": "51",
+      "nama_proyek": "Jalan Tol Lhokseumawe-Sigli (135km)",
+      "lokasi": "Aceh"
+    },
+    {
+      "nomor": "52",
+      "nama_proyek": "Jalan Tol Pekanbaru-Bangkinang-Payakumbuh-Bukittinggi (185km)",
+      "lokasi": "Sumatera Barat, Riau"
+    },
+    {
+      "nomor": "53",
+      "nama_proyek": "Jalan Tol Tebing Tinggi-Pematang Siantar-Prapat-Tarutung-Sibolga (200km)",
+      "lokasi": "Sumatera Utara"
+    },
+    {
+      "nomor": "54",
+      "nama_proyek": "Jalan Tol Betung (Sp Sekayu)-Tempinomor-Jambi (191km)",
+      "lokasi": "Jambi-Sumatera Selatan"
+    },
+    {
+      "nomor": "55",
+      "nama_proyek": "Jalan Tol Jambi-Rengat (190km)",
+      "lokasi": "Jambi"
+    },
+    {
+      "nomor": "56",
+      "nama_proyek": "Jalan Tol Rengat-Pekanbaru (175km)",
+      "lokasi": "Riau"
+    },
+    {
+      "nomor": "57",
+      "nama_proyek": "Jalan Tol Dumai-Sp Sigambal-Rantau Prapat (175km)",
+      "lokasi": "Riau-Sumatera Utara"
+    },
+    {
+      "nomor": "58",
+      "nama_proyek": "Jalan Tol Simpang Indralaya-Muara Enim (110km)",
+      "lokasi": "Sumatera Selatan"
+    },
+    {
+      "nomor": "59",
+      "nama_proyek": "Jalan Tol Muara Enim-Lubuk Linggau-Lahat (125km)",
+      "lokasi": "Sumatera Selatan"
+    },
+    {
+      "nomor": "60",
+      "nama_proyek": "Jalan Tol Lubuk Linggau-Curup-Bengkulu (95km)",
+      "lokasi": "Sumatera Selatan-Bengkulu"
+    },
+    {
+      "nomor": "61",
+      "nama_proyek": "Jalan Tol Pasuruan-Probolinggo (31,3km)",
+      "lokasi": "Jawa Timur"
+    },
+    {
+      "nomor": "62",
+      "nama_proyek": "Jalan Tol Probolinggo-Banyuwangi (170,36km)",
+      "lokasi": "Jawa Timur"
+    },
+    {
+      "nomor": "63",
+      "nama_proyek": "Jalan Tol Krian-Legundi-Bunder-Manyan (39km)",
+      "lokasi": "Jawa Timur"
+    },
+    {
+      "nomor": "64",
+      "nama_proyek": "Jalan Tol Jakarta Cikampek II Sisi Selatan (36,4km)",
+      "lokasi": "DKI Jakarta-Jawa Barat"
+    },
+    {
+      "nomor": "65",
+      "nama_proyek": "Jalan Tol Jakarta-Cikampek II Elevated (64km)",
+      "lokasi": "DKI Jakarta-Jawa Barat"
+    },
+    {
+      "nomor": "66",
+      "nama_proyek": "Jalan Tol Yogyakarta-Solo (40,49km)",
+      "lokasi": "Jawa Tengah"
+    },
+    {
+      "nomor": "67",
+      "nama_proyek": "Jalan Tol Semarang-Demak (23,99km)",
+      "lokasi": "Jawa Tengah"
+    },
+    {
+      "nomor": "68",
+      "nama_proyek": "Jalan Tol Sukabumi-Ciranjang-Padalarang (61km)",
+      "lokasi": "Jawa Barat"
+    },
+    {
+      "nomor": "69",
+      "nama_proyek": "Jalan Tol Yogyakarta-Bawen (71km)",
+      "lokasi": "Yogyakarta"
+    },
+    {
+      "nomor": "70",
+      "nama_proyek": "Pembangunan Jalan Lingkar Trans Morotai",
+      "lokasi": "Provinsi Maluku Utara"
+    },
+    {
+      "nomor": "71",
+      "nama_proyek": "Jalan Palu-Parigi",
+      "lokasi": "Provinsi Sulawesi Tengah"
+    },
+    {
+      "nomor": "72",
+      "nama_proyek": "Pembangunan Fly Over dari dan Menuju Terminal Teluk Lamong",
+      "lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "73",
+      "nama_proyek": "Jalan Penghubung Gorontalo-Manado",
+      "lokasi": "Provinsi Gorontalo-Provinsi Sulawesi Utara"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "Kereta Api Makassar-Parepare (Tahap I dari pengembangan jalur Lintas Barat Sulawesi Bag Selatan)",
+      "lokasi": "Provinsi Sulawesi Selatan"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Kereta Api Prabumulih-Kertapati (80km-bagian dari Jaringan Kereta Api Trans Sumatera)",
+      "lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Kereta Api Kertapati-Simpang-Tanjung Api-Api (bagian dari Jaringan Kereta Api Trans Sumatera)",
+      "lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Kereta Api Tebing Tinggi-Kuala Tanjung (Mendukung KEK Sei Mangkei, bagian dari Jaringan Kereta Api Trans Sumatera)",
+      "lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "nomor": "5",
+      "nama_proyek": "Kereta Api Purukcahu-Bangkuang",
+      "lokasi": "Provinsi Kalimantan Tengah"
+    },
+    {
+      "nomor": "6",
+      "nama_proyek": "Pembangunan rel Kereta Api Provinsi Kalimantan Timur",
+      "lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "nomor": "7",
+      "nama_proyek": "Double Track Jawa Selatan",
+      "lokasi": "Provinsi Jawa Barat, Provinsi Jawa Tengah, Provinsi DI Yogyakarta, dan Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "8",
+      "nama_proyek": "High Speed Train Jakarta-Bandung",
+      "lokasi": "Provinsi DKI Jakarta-Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "9",
+      "nama_proyek": "Kereta Api Muara Enim-Pulau Baai",
+      "lokasi": "Provinsi Bengkulu-Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "10",
+      "nama_proyek": "Kereta Api Tanjung Enim-Tanjung Api-Api",
+      "lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "11",
+      "nama_proyek": "Kereta Api Jambi-Pekanbaru",
+      "lokasi": "Provinsi Jambi-Provinsi Riau"
+    },
+    {
+      "nomor": "12",
+      "nama_proyek": "Kereta Api Jambi-Palembang",
+      "lokasi": "Provinsi Jambi-Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "13",
+      "nama_proyek": "Kereta Api Rantau Prapat-Duri-Pekanbaru",
+      "lokasi": "Sumatera Utara-Riau"
+    },
+    {
+      "nomor": "14",
+      "nama_proyek": "Kereta Api Akses Bandara Baru Yogyakarta-Kulon Progo",
+      "lokasi": "DI Yogyakarta"
+    },
+    {
+      "nomor": "15",
+      "nama_proyek": "Kereta Api Jakarta-Surabaya",
+      "lokasi": "DKI Jakarta-Jawa Timur"
+    },
+    {
+      "nomor": "16",
+      "nama_proyek": "Kereta Api Akses Bandara Adi Sumarmo",
+      "lokasi": "Jawa Tengah"
+    },
+    {
+      "nomor": "17",
+      "nama_proyek": "Mass Rapid Transit (MRT) Jakarta Koridor nomorrth-South",
+      "lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "18",
+      "nama_proyek": "Mass Rapid Transit (MRT) Jakarta Koridor East-West",
+      "lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "19",
+      "nama_proyek": "Kereta api ekspres SHIA (Soekarnomor Hatta-Sudirman)",
+      "lokasi": "Provinsi DKI Jakarta-Provinsi Banten"
+    },
+    {
+      "nomor": "20",
+      "nama_proyek": "Jabodetabek Circular Line",
+      "lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "21",
+      "nama_proyek": "Penyelenggaraan Kereta Api Ringan/Light Rail Transit (LRT) Terintegrasi di Wilayah Jakarta, Bogor, Depok dan Bekasi",
+      "lokasi": "Provinsi DKI Jakarta-Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "22",
+      "nama_proyek": "Penyelenggaraan Perkeretaapian Umum di wilayah Provinsi DKI Jakarta",
+      "lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "23",
+      "nama_proyek": "Light Rail Transit (LRT) Sumatera Selatan (Metro Palembang)",
+      "lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "S Babullah, Ternate",
+      "lokasi": "Provinsi Maluku Utara"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Raden Inten II, Lampung",
+      "lokasi": "Provinsi Lampung"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Tjilik Riwut, Palangkaraya",
+      "lokasi": "Provinsi Kalimantan Tengah"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Sebatik",
+      "lokasi": "Provinsi Kalimantan Utara"
+    },
+    {
+      "nomor": "5",
+      "nama_proyek": "Bandara Kertajati",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "6",
+      "nama_proyek": "Bandara Internasional di Propinsi DI Yogyakarta",
+      "lokasi": "Provinsi DI Yogyakarta"
+    },
+    {
+      "nomor": "7",
+      "nama_proyek": "BandaraUdara Syamsuddin nomoror",
+      "lokasi": "Kalimantan Selatan"
+    },
+    {
+      "nomor": "8",
+      "nama_proyek": "Pengembangan Bandara Achmad Yani, Semarang",
+      "lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "Pengembangan pelabuhan internasional Kuala Tanjung",
+      "lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Pengembangan pelabuhan hub internasional Bitung",
+      "lokasi": "Provinsi Sulawesi Utara"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Pelabuhan KEK Maloy",
+      "lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Inland Waterways/CBL Cikarang-Bekasi- Laut Jawa",
+      "lokasi": "Provinsi DKI Jakarta, Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "5",
+      "nama_proyek": "Pembangunan PelabuhanPatimban",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "6",
+      "nama_proyek": "Pembangunan Pelabuhan Sorong",
+      "lokasi": "Provinsi Papua Barat"
+    },
+    {
+      "nomor": "7",
+      "nama_proyek": "Makassar New Port",
+      "lokasi": "Provinsi Sulawesi Selatan"
+    },
+    {
+      "nomor": "8",
+      "nama_proyek": "Pengembangan pelabuhan Palu (Pantoloan, Teluk Palu)",
+      "lokasi": "Provinsi Sulawesi Tengah"
+    },
+    {
+      "nomor": "9",
+      "nama_proyek": "Pengembangan Pelabuhan Kijing",
+      "lokasi": "Provinsi Kalimantan Barat"
+    },
+    {
+      "nomor": "10",
+      "nama_proyek": "Pengembangan Pelabuhan Kupang",
+      "lokasi": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "PembangunanRumah Susun\n\nPembangunan 2332 unit Rumah Susun Sewa di Pasar Minggu (DKI Jakarta) (Tahap 1)\nPembangunan 2396 unit Rumah Susun Sewa di Pasar Rumput (DKI Jakarta) (Tahap 1)\nPembangunan 500 unit Rumah Susun Sewa di Pondok Kelapa (DKI Jakarta) (Tahap 1)",
+      "lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Pembangunan Rumah Khusus di Wilayah Perbatasan",
+      "lokasi": "lokasi Belum Ditentukan"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Pembangunan Bantuan Rumah Swadaya",
+      "lokasi": "lokasi Belum Ditentukan"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "Kilang Minyak Bontang",
+      "lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Kilang Minyak Tuban (ekspansi)",
+      "lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Upgrading kilang-kilang eksisting (RDMP)",
+      "lokasi": "Provinsi Jawa Tengah, Provinsi Kepulauan Riau, Provinsi Sumatera Selatan, Provinsi Jawa Barat dan Provinsi Kalimantan Timur"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Pembangunan Jaringan Gas Bumi untuk Rumah Tangga",
+      "lokasi": "Provinsi Sumatera, Kalimantan dan Jawa"
+    },
+    {
+      "nomor": "5",
+      "nama_proyek": "Konstruksi Tangki Penyimpanan BBM",
+      "lokasi": "Indonesia Bagian Timur"
+    },
+    {
+      "nomor": "6",
+      "nama_proyek": "Konstruksi Tangki Penyimpanan LPG",
+      "lokasi": "Indonesia Bagian Timur"
+    },
+    {
+      "nomor": "7",
+      "nama_proyek": "Pengembangan Lapangan Abadi Wilayah Kerja Masela",
+      "lokasi": "ProvinsiMaluku"
+    },
+    {
+      "nomor": "8",
+      "nama_proyek": "Pengembangan Lapangan Gendalo, Maha, Gandang, Gahem, dan Bangka (Indonesia Deepwater Development Project/IDD)",
+      "lokasi": "ProvinsiKalimantan Timur"
+    },
+    {
+      "nomor": "9",
+      "nama_proyek": "Proyek Tangguh LNG Train 3",
+      "lokasi": "ProvinsiPapua Barat"
+    },
+    {
+      "nomor": "10",
+      "nama_proyek": "Pengembangan Lapangan Jangkrik dan Jangkrik nomorrth East Wilayah Kerja Muara Bakau",
+      "lokasi": "ProvinsiKalimantan Timur"
+    },
+    {
+      "nomor": "11",
+      "nama_proyek": "Pengembangan Lapangan Unitisasi Gas Jambaran-Tiung Biru",
+      "lokasi": "ProvinsiJawa Timur"
+    },
+    {
+      "nomor": "12",
+      "nama_proyek": "Energi asal sampah kota-kota besar (Semarang, Makassar, Tangerang)",
+      "lokasi": "Provinsi Jawa Tengah, Provinsi Sulawesi Selatan, Provinsi Banten"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Semarang Barat",
+      "lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Jatigede",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Umbulan",
+      "lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Lampung",
+      "lokasi": "Provinsi Lampung"
+    },
+    {
+      "nomor": "5",
+      "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Mamminasata",
+      "lokasi": "Provinsi Sulawesi Selatan"
+    },
+    {
+      "nomor": "6",
+      "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Jatiluhur",
+      "lokasi": "Provinsi Jawa Barat"
+    },
+    {
+      "nomor": "7",
+      "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Mebidang",
+      "lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "nomor": "8",
+      "nama_proyek": "Sistem Penyediaan Air Minum (SPAM) Regional Wasusokas",
+      "lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "nomor": "9",
+      "nama_proyek": "Jakarta Sewerage System/Pengolahan Limbah Jakarta",
+      "lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "National Capital Integrated Coastal Development (NCICD) Tahap A",
+      "lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Pembangunan Bantuan Rumah Swadaya",
+      "lokasi": "lokasi Belum Ditentukan"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Pembangunan Bantuan Rumah Swadaya",
+      "lokasi": "lokasi Belum Ditentukan"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Pembangunan Bantuan Rumah Swadaya",
+      "lokasi": "lokasi Belum Ditentukan"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Pembangunan Bantuan Rumah Swadaya",
+      "lokasi": "lokasi Belum Ditentukan"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Pembangunan Bantuan Rumah Swadaya",
+      "lokasi": "lokasi Belum Ditentukan"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "74",
+      "nama_proyek": "Jalan Trans Maluku (7 ruas)",
+      "lokasi": "Provinsi Maluku"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "Pembangunan Jaringan Irigasi DI Lhok Guci",
+      "lokasi": "Aceh"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Pembangunan Jaringan Irigasi DI Jambo Aye Kanan",
+      "lokasi": "Aceh"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Pembangunan Jaringan Irigasi DI Lematang",
+      "lokasi": "Sumatera Selatan"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Pembangunan Saluran Suplesi DI Umpu System (Way Besai)",
+      "lokasi": "Sumatera Selatan"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Pembangunan Jaringan Irigasi DI Leuwigoong Kab Garut",
+      "lokasi": "Jawa Barat"
+    },
+    {
+      "nomor": "5",
+      "nama_proyek": "Pembangunan Bendung dan Jaringan Irigasi DI Baliase",
+      "lokasi": "Sulaawesi Selatan"
+    },
+    {
+      "nomor": "6",
+      "nama_proyek": "Pembangunan Bendung dan Jaringan Irigasi DIGumbasa",
+      "lokasi": "Sulawesi Tengah"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "Palapa Ring Broadband (Eastern part) di total 57 Kab/Kota)",
+      "lokasi": "Nasional"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Palapa Ring Broadband (457 kab/kota)",
+      "lokasi": "Nasional"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Percepatan Pembangunan Technomorpark",
+      "lokasi": "Nasional"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Proyek Satelit Multifungsi",
+      "lokasi": "Orbit"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "Kuala Tanjung",
+      "lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Sei Mangkei",
+      "lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Tanjung Api-Api",
+      "lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "Tanjung Lesung",
+      "lokasi": "Provinsi Banten"
+    },
+    {
+      "nomor": "5",
+      "nama_proyek": "Landak",
+      "lokasi": "Provinsi Kalimantan Barat"
+    },
+    {
+      "nomor": "6",
+      "nama_proyek": "Ketapang",
+      "lokasi": "Provinsi Kalimantan Barat"
+    },
+    {
+      "nomor": "7",
+      "nama_proyek": "Tanggamus",
+      "lokasi": "Provinsi Lampung"
+    },
+    {
+      "nomor": "8",
+      "nama_proyek": "Batulicin",
+      "lokasi": "Provinsi Kalimantan Selatan"
+    },
+    {
+      "nomor": "9",
+      "nama_proyek": "Jorong",
+      "lokasi": "Provinsi Kalimantan Selatan"
+    },
+    {
+      "nomor": "10",
+      "nama_proyek": "Maloy Batuta Trans Kalimantan",
+      "lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "nomor": "11",
+      "nama_proyek": "Palu",
+      "lokasi": "Provinsi Sulawesi Tengah"
+    },
+    {
+      "nomor": "12",
+      "nama_proyek": "Bantaeng",
+      "lokasi": "Provinsi Sulawesi Selatan"
+    },
+    {
+      "nomor": "13",
+      "nama_proyek": "Bitung",
+      "lokasi": "Provinsi Sulawesi Utara"
+    },
+    {
+      "nomor": "14",
+      "nama_proyek": "Morowali",
+      "lokasi": "Provinsi Sulawesi Tengah"
+    },
+    {
+      "nomor": "15",
+      "nama_proyek": "Konawe",
+      "lokasi": "Provinsi Sulawesi Tenggara"
+    },
+    {
+      "nomor": "16",
+      "nama_proyek": "Mandalika",
+      "lokasi": "Provinsi Nusa Tenggara Barat"
+    },
+    {
+      "nomor": "17",
+      "nama_proyek": "Buli, Halmahera Timur",
+      "lokasi": "Provinsi Maluku Utara"
+    },
+    {
+      "nomor": "18",
+      "nama_proyek": "Morotai",
+      "lokasi": "Provinsi Maluku Utara"
+    },
+    {
+      "nomor": "19",
+      "nama_proyek": "Teluk Bintuni",
+      "lokasi": "Provinsi Papua Barat"
+    },
+    {
+      "nomor": "20",
+      "nama_proyek": "Belitung",
+      "lokasi": "Provinsi Bangka Belitung"
+    },
+    {
+      "nomor": "21",
+      "nama_proyek": "Kendal",
+      "lokasi": "Provinsi Jawa Tengah"
+    },
+    {
+      "nomor": "22",
+      "nama_proyek": "Dumai",
+      "lokasi": "Provinsi Riau"
+    },
+    {
+      "nomor": "23",
+      "nama_proyek": "Tanjung Buton",
+      "lokasi": "Provinsi Riau"
+    },
+    {
+      "nomor": "24",
+      "nama_proyek": "Tanah Kuning",
+      "lokasi": "ProvinsiKalimantan Utara"
+    },
+    {
+      "nomor": "25",
+      "nama_proyek": "Wilmar Serang",
+      "lokasi": "Provinsi Banten"
+    },
+    {
+      "nomor": "26",
+      "nama_proyek": "Percepatan infrastruktur Kawasan Ekonomormi Khusus Sorong",
+      "lokasi": "Provinsi Papua Barat"
+    },
+    {
+      "nomor": "27",
+      "nama_proyek": "Percepatan infrastruktur Kawasan Ekonomormi Khusus Lhokseumawe",
+      "lokasi": "Provinsi Aceh"
+    },
+    {
+      "nomor": "28",
+      "nama_proyek": "Percepatan infrastruktur Kawasan Ekonomormi Khusus Merauke",
+      "lokasi": "Provinsi Papua"
+    },
+    {
+      "nomor": "29",
+      "nama_proyek": "Java Integrated Industrial Port Estate (JIIPE) Gresik",
+      "lokasi": "Jawa Timur"
+    },
+    {
+      "nomor": "30",
+      "nama_proyek": "Percepatan infrastruktur transportasi, listrik, dan air bersih untuk 10 kawasan strategis pariwisata nasional (KSPN) Prioritas Danau Toba, Pulau Seribu, Tanjung Lesung dan 7 kawasan lainnya",
+      "lokasi": "Provinsi Sumatera Utara, Provinsi DKI Jakarta, Provisi Banten, Provinsi Jawa Timur, Provinsi Nusa Tenggara Timur, Provinsi Nusa Tenggara Barat, Provinsi Maluku Utara, Provinsi DI Yogyakarta, Provisi Sulawesi Tenggara dan Provinsi Bangka Belitung"
+    },
+    {
+      "nomor": "Provinsi Nusa Tenggara Timur",
+      "nama_proyek": "Provinsi Nusa Tenggara Timur",
+      "lokasi": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+      "nomor": "Provinsi Nusa Tenggara Timur",
+      "nama_proyek": "Provinsi Nusa Tenggara Timur",
+      "lokasi": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+      "nomor": "Provinsi Nusa Tenggara Timur",
+      "nama_proyek": "Provinsi Nusa Tenggara Timur",
+      "lokasi": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+      "nomor": "Provinsi Nusa Tenggara Timur",
+      "nama_proyek": "Provinsi Nusa Tenggara Timur",
+      "lokasi": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+      "nomor": "Provinsi Nusa Tenggara Timur",
+      "nama_proyek": "Provinsi Nusa Tenggara Timur",
+      "lokasi": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+      "nomor": "Provinsi Nusa Tenggara Timur",
+      "nama_proyek": "Provinsi Nusa Tenggara Timur",
+      "lokasi": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+      "nomor": "Provinsi Nusa Tenggara Timur",
+      "nama_proyek": "Provinsi Nusa Tenggara Timur",
+      "lokasi": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+      "nomor": "Provinsi Nusa Tenggara Timur",
+      "nama_proyek": "Provinsi Nusa Tenggara Timur",
+      "lokasi": "Provinsi Nusa Tenggara Timur"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "Pembangunan Sentra Kelautan dan Perikanan Terpadu Talaud",
+      "lokasi": "SulawesiUtara"
+    },
+    {
+      "nomor": "",
+      "nama_proyek": "",
+      "lokasi": ""
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "HIGH VOLTAGE DIRECT CURRENT (HVDC)",
+      "lokasi": "Sumatera Selatan, Lampung, Banten, Jawa Barat"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "PLTU Mulut Tambang",
+      "lokasi": "Sumatera Selatan"
+    },
+    {
+      "nomor": "3",
+      "nama_proyek": "Transmisi Sumatera 500 kV",
+      "lokasi": "Sumatera"
+    },
+    {
+      "nomor": "4",
+      "nama_proyek": "CentralWest Java Transmission Line 500kV",
+      "lokasi": "Jawa Barat, Jawa Tengah"
+    },
+    {
+      "nomor": "5",
+      "nama_proyek": "PLTU Indramayu",
+      "lokasi": "Jawa Barat"
+    },
+    {
+      "nomor": "6",
+      "nama_proyek": "PLTU Batang",
+      "lokasi": "Jawa Tengah"
+    },
+    {
+      "nomor": "7",
+      "nama_proyek": "PLTA Karangkates IV & V (2x50MW)",
+      "lokasi": "Jawa Timur"
+    },
+    {
+      "nomor": "8",
+      "nama_proyek": "PLTA Kesamben (37MW)",
+      "lokasi": "Jawa Timur"
+    },
+    {
+      "nomor": "9",
+      "nama_proyek": "PLTA Lodoyo (50MW)",
+      "lokasi": "Jawa Timur"
+    },
+    {
+      "nomor": "1",
+      "nama_proyek": "Program Industri Pesawat Jarak Menengah (R80)",
+      "lokasi": "Jawa Barat"
+    },
+    {
+      "nomor": "2",
+      "nama_proyek": "Program Industri Pesawat Jarak Menengah N-245",
+      "lokasi": "Jawa Barat"
+    }
+  ]
+}

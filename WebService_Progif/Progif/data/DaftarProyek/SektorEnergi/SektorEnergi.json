@@ -1,0 +1,64 @@
+{
+  "SektorEnergi": [
+    {
+      "No.": "1.",
+      "Nama Proyek": "Kilang Minyak Bontang",
+      "Lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "No.": "2.",
+      "Nama Proyek": "Kilang Minyak Tuban (ekspansi)",
+      "Lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "No.": "3.",
+      "Nama Proyek": "Upgrading kilang-kilang eksisting (RDMP)",
+      "Lokasi": "Provinsi Jawa Tengah, Provinsi Kepulauan Riau, Provinsi Sumatera Selatan, Provinsi Jawa Barat dan Provinsi Kalimantan Timur"
+    },
+    {
+      "No.": "4.",
+      "Nama Proyek": "Pembangunan Jaringan Gas Bumi untuk Rumah Tangga",
+      "Lokasi": "Provinsi Sumatera, Kalimantan dan Jawa"
+    },
+    {
+      "No.": "5.",
+      "Nama Proyek": "Konstruksi Tangki Penyimpanan BBM",
+      "Lokasi": "Indonesia Bagian Timur"
+    },
+    {
+      "No.": "6.",
+      "Nama Proyek": "Konstruksi Tangki Penyimpanan LPG",
+      "Lokasi": "Indonesia Bagian Timur"
+    },
+    {
+      "No.": "7.",
+      "Nama Proyek": "Pengembangan Lapangan Abadi Wilayah Kerja Masela",
+      "Lokasi": "Provinsi Maluku"
+    },
+    {
+      "No.": "8.",
+      "Nama Proyek": "Pengembangan Lapangan Gendalo, Maha, Gandang, Gahem, dan Bangka (Indonesia Deepwater Development Project/IDD)",
+      "Lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "No.": "9.",
+      "Nama Proyek": "Proyek Tangguh LNG Train 3",
+      "Lokasi": "Provinsi Papua Barat"
+    },
+    {
+      "No.": "10.",
+      "Nama Proyek": "Pengembangan Lapangan Jangkrik dan Jangkrik North East Wilayah Kerja Muara Bakau",
+      "Lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "No.": "11.",
+      "Nama Proyek": "Pengembangan Lapangan Unitisasi Gas Jambaran-Tiung Biru",
+      "Lokasi": "Provinsi Jawa Timur"
+    },
+    {
+      "No.": "12.",
+      "Nama Proyek": "Energi asal sampah kota-kota besar (Semarang, Makassar, Tangerang)",
+      "Lokasi": "Provinsi Jawa Tengah, Provinsi Sulawesi Selatan, Provinsi Banten"
+    }
+  ]
+}

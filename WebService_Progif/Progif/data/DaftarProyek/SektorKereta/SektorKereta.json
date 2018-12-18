@@ -1,0 +1,119 @@
+{
+  "SektorKereta": [
+    {
+      "No.": "1.",
+      "Nama Proyek": "Kereta Api Makassar-Parepare (Tahap I dari pengembangan jalur Lintas Barat Sulawesi Bag. Selatan)",
+      "Lokasi": "Provinsi Sulawesi Selatan"
+    },
+    {
+      "No.": "2.",
+      "Nama Proyek": "Kereta Api Prabumulih-Kertapati (80km-bagian dari Jaringan Kereta Api Trans Sumatera)",
+      "Lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "3.",
+      "Nama Proyek": "Kereta Api Kertapati-Simpang-Tanjung Api-Api (bagian dari Jaringan Kereta Api Trans Sumatera)",
+      "Lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "4.",
+      "Nama Proyek": "Kereta Api Tebing Tinggi-Kuala Tanjung (Mendukung KEK Sei Mangkei, bagian dari Jaringan Kereta Api Trans Sumatera)",
+      "Lokasi": "Provinsi Sumatera Utara"
+    },
+    {
+      "No.": "5.",
+      "Nama Proyek": "Kereta Api Purukcahu-Bangkuang",
+      "Lokasi": "Provinsi Kalimantan Tengah"
+    },
+    {
+      "No.": "6.",
+      "Nama Proyek": "Pembangunan rel Kereta Api Provinsi Kalimantan Timur",
+      "Lokasi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "No.": "7.",
+      "Nama Proyek": "Double Track Jawa Selatan",
+      "Lokasi": "Provinsi Jawa Barat, Provinsi Jawa Tengah, Provinsi DI Yogyakarta, dan Provinsi Jawa Timur"
+    },
+    {
+      "No.": "8.",
+      "Nama Proyek": "High Speed Train Jakarta-Bandung",
+      "Lokasi": "Provinsi DKI Jakarta-Provinsi Jawa Barat"
+    },
+    {
+      "No.": "9.",
+      "Nama Proyek": "Kereta Api Muara Enim-Pulau Baai",
+      "Lokasi": "Provinsi Bengkulu-Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "10.",
+      "Nama Proyek": "Kereta Api Tanjung Enim-Tanjung Api-Api",
+      "Lokasi": "Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "11.",
+      "Nama Proyek": "Kereta Api Jambi-Pekanbaru",
+      "Lokasi": "Provinsi Jambi-Provinsi Riau"
+    },
+    {
+      "No.": "12.",
+      "Nama Proyek": "Kereta Api Jambi-Palembang",
+      "Lokasi": "Provinsi Jambi-Provinsi Sumatera Selatan"
+    },
+    {
+      "No.": "13.",
+      "Nama Proyek": "Kereta Api Rantau Prapat-Duri-Pekanbaru",
+      "Lokasi": "  Sumatera Utara-Riau"
+    },
+    {
+      "No.": "14.",
+      "Nama Proyek": "Kereta Api Akses Bandara Baru Yogyakarta-Kulon Progo",
+      "Lokasi": "  D.I. Yogyakarta"
+    },
+    {
+      "No.": "15.",
+      "Nama Proyek": "Kereta Api Jakarta-Surabaya",
+      "Lokasi": "  DKI Jakarta-Jawa Timur"
+    },
+    {
+      "No.": "16.",
+      "Nama Proyek": "Kereta Api Akses Bandara Adi Sumarmo",
+      "Lokasi": "  Jawa Tengah"
+    },
+    {
+      "No.": "17.",
+      "Nama Proyek": "Mass Rapid Transit (MRT) Jakarta Koridor North-South",
+      "Lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "No.": "18.",
+      "Nama Proyek": "Mass Rapid Transit (MRT) Jakarta Koridor East-West",
+      "Lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "No.": "19.",
+      "Nama Proyek": "Kereta api ekspres SHIA (Soekarno Hatta-Sudirman)",
+      "Lokasi": "Provinsi DKI Jakarta-Provinsi Banten"
+    },
+    {
+      "No.": "20.",
+      "Nama Proyek": "Jabodetabek Circular Line",
+      "Lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "No.": "21.",
+      "Nama Proyek": "Penyelenggaraan Kereta Api Ringan/Light Rail Transit (LRT) Terintegrasi di Wilayah Jakarta, Bogor, Depok dan Bekasi",
+      "Lokasi": "Provinsi DKI Jakarta-Provinsi Jawa Barat"
+    },
+    {
+      "No.": "22.",
+      "Nama Proyek": "Penyelenggaraan Perkeretaapian Umum di wilayah Provinsi DKI Jakarta",
+      "Lokasi": "Provinsi DKI Jakarta"
+    },
+    {
+      "No.": "23.",
+      "Nama Proyek": "Light Rail Transit (LRT) Sumatera Selatan (Metro Palembang)",
+      "Lokasi": "Provinsi Sumatera Selatan"
+    }
+  ]
+}

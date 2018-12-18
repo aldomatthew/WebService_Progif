@@ -1,0 +1,39 @@
+{
+  "SektorIrigasi": [
+    {
+      "No.": "1.",
+      "Nama Proyek": "Pembangunan Jaringan Irigasi DI. Lhok Guci",
+      "Lokasi": "Aceh"
+    },
+    {
+      "No.": "2.",
+      "Nama Proyek": "Pembangunan Jaringan Irigasi DI. Jambo Aye Kanan",
+      "Lokasi": "Aceh"
+    },
+    {
+      "No.": "3.",
+      "Nama Proyek": "Pembangunan Jaringan Irigasi DI. Lematang",
+      "Lokasi": "Sumatera Selatan"
+    },
+    {
+      "No.": "4.",
+      "Nama Proyek": "Pembangunan Saluran Suplesi DI. Umpu System (Way Besai)",
+      "Lokasi": "Sumatera Selatan"
+    },
+    {
+      "No.": "4.",
+      "Nama Proyek": "Pembangunan Jaringan Irigasi DI. Leuwigoong Kab. Garut",
+      "Lokasi": "Jawa Barat"
+    },
+    {
+      "No.": "5.",
+      "Nama Proyek": "Pembangunan Bendung dan Jaringan Irigasi DI. Baliase",
+      "Lokasi": "Sulaawesi Selatan"
+    },
+    {
+      "No.": "6.",
+      "Nama Proyek": "Pembangunan Bendung dan Jaringan Irigasi DI. Gumbasa",
+      "Lokasi": " Sulawesi Tengah"
+    }
+  ]
+}
